@@ -1,2 +1,2 @@
-# learing-log
+# learning-log
 learning log
